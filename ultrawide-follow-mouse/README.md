@@ -70,3 +70,10 @@ It should then work like this:
 
 https://github.com/tommerty/streamerbot-files/assets/86270372/cd7330e6-c784-4946-8088-1a8a005e5b83
 
+---
+
+## Why not check out my other projects?
+Check out my [Doras](https://doras.to/tommerty) for everything I do!
+
+![qrcode (1)](https://github.com/tommerty/streamerbot-files/assets/86270372/2f028cb2-5c01-4e04-922d-4903a9940ce0)
+
