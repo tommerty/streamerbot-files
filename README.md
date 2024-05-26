@@ -1,4 +1,6 @@
-# StreamerBot Files
+![banner](/banner.webp)
+
+
 A repository of tutorials, assets, and configs for everything I use.
 
 > [!IMPORTANT]
